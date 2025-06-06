@@ -1,6 +1,6 @@
-# 🎟️ ShowPass - Movies App
-
 ![180](https://github.com/user-attachments/assets/6ed4ba6a-01b3-4e64-95bf-ba7fd858dbc5)
+
+# 🎟️ ShowPass - Movies App
 ![Screenshot 2025-06-07 at 12 23 48 AM](https://github.com/user-attachments/assets/cb4b3236-d098-4604-94f9-ba8de01d1a49)
 
 
