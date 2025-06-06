@@ -1,5 +1,8 @@
 # 🎟️ ShowPass - Movies App
 
+![ChatGPT Image Jun 6, 2025, 02_49_26 AM](https://github.com/user-attachments/assets/6fee60bf-cccb-438c-a513-5706adbdad56)
+
+
 Welcome to **ShowPass**, a sleek and modern iOS app that helps you explore trending and now playing movies with ease. 
 Powered by [TMDB API](https://developers.themoviedb.org/3), the app offers search, bookmarks, offline support, and much more — all packed in a clean Swift-based architecture! 🍿📱
 
