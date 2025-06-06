@@ -1,6 +1,6 @@
 # 🎟️ ShowPass - Movies App
 
-![ChatGPT Image Jun 6, 2025, 02_49_26 AM](https://github.com/user-attachments/assets/6fee60bf-cccb-438c-a513-5706adbdad56)
+![180](https://github.com/user-attachments/assets/6ed4ba6a-01b3-4e64-95bf-ba7fd858dbc5)
 
 
 Welcome to **ShowPass**, a sleek and modern iOS app that helps you explore trending and now playing movies with ease. 
